@@ -1,0 +1,46 @@
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.csprojAssemblyReference.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\staticwebassets\Nanna_film.StaticWebAssets.Manifest.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\staticwebassets\Nanna_film.StaticWebAssets.xml
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.AssemblyInfoInputs.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.AssemblyInfo.cs
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.exe
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.deps.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.runtimeconfig.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.runtimeconfig.dev.json
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.pdb
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.RazorTargetAssemblyInfo.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.pdb
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.csproj.CopyComplete
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rlua\OneDrive - Novozymes A S\Documents\github\Nanna_film\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.csprojAssemblyReference.cache
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\staticwebassets\Nanna_film.StaticWebAssets.Manifest.cache
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\staticwebassets\Nanna_film.StaticWebAssets.xml
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.AssemblyInfoInputs.cache
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.AssemblyInfo.cs
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.pdb
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.exe
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.deps.json
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.runtimeconfig.json
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.runtimeconfig.dev.json
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Nanna_film.pdb
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\AutoMapper.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.RazorTargetAssemblyInfo.cache
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.csproj.CopyComplete
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\System.Net.Http.Formatting.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\System.Web.Http.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
+C:\Users\nkarij\Documents\github\ASP.NET\NKJ_FILM\Nanna_film\obj\Debug\netcoreapp3.0\Nanna_film.MvcApplicationPartsAssemblyInfo.cache
